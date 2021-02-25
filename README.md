@@ -1,3 +1,4 @@
 # Hello-world
+
 firstRepository，
-这是我第一次接触GitHub，希望我能熟悉并学会。
+This my first contact GitHub,hope me can learn how to use GitHub.
